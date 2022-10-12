@@ -1,3 +1,4 @@
 "This is the readme file for the tutorial repository."
 "This a second edit to readme file."
-"Change added in main branch."
+"Changes made to resolve conflict between maaster branch and 
+dazzling_feature."
